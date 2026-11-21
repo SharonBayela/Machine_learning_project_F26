@@ -33,11 +33,10 @@ The expected pure premium combines the two risk components: predicted frequency 
 | PCA | Complete |
 | Naive Bayes | Complete |
 | Decision Tree | Complete |
-| Regression (linear and logistic) | Planned |
-| AdaBoost | Planned |
+| Regression (linear and logistic) | Complete |
+| AdaBoost | Complete |
 | Gradient Boosting | Planned |
 | XGBoost | Planned |
-| Random Forest | Planned |
 
 ## Data sources
 
